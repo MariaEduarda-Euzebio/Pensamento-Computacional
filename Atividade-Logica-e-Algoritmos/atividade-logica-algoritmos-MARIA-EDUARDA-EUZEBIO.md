@@ -28,4 +28,9 @@ INICIO
     FIM_PARA
 
     ESCREVA "Fila finalizada com sucesso."
-FIM
+
+## 2. Teste de Mesa (Simulação)
+| Passo | Variável `i` | Nome Digitado | Na Lista? | Saída Gerada |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 1 | Maria Eduarda | Sim | "Entrada permitida" |
+| 2 | 2 | Aluno X | Não | "ERRO: Entrada NEGADA" |
