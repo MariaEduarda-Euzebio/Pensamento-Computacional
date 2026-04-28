@@ -10,4 +10,4 @@ Este projeto aplica os pilares do pensamento computacional para resolver o desaf
 - **Algoritmo:** Sequência de passos estruturados para automação do processo.
 
 ## 📂 Arquivos desta pasta
-- `atividade-logica-algoritmos-MARIA-EDUARDA-EUZEBIO.md`: Código do algoritmo e teste de mesa.
+- `atividade-logica-algoritmos-MARIA-EDUARDA-EUZEBIO.md`: Código do algoritmo.
