@@ -49,8 +49,8 @@ O objetivo é aplicar os pilares do pensamento computacional (decomposição, ab
 `Atividade-Logica-e-Algoritmos/`  
 │  
 ├── `README.md` (Documentação do projeto)  
-└── `atividade-logica-algoritmos-[MARIA-EDUARDA-EUZEBIO].md` (Algoritmo e Teste de Mesa)
+└── `atividade-logica-algoritmos-MARIA-EDUARDA-EUZEBIO.md` (Algoritmo e Teste de Mesa)
 
 ## 📅 Entrega
 - **Data:** 23/04/2026
-- **Commit:** "Entrega Atividade – Pensamento Computacional"
+- **Commit:** "Entrega Atividade – Pensamento Computacional para Prática de lógica e algoritmos"
