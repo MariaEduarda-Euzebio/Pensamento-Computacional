@@ -1,5 +1,7 @@
 # Algoritmo de Controle de Acesso
 
+## 1. Pseudocódigo (Linguagem Estruturada)
+
 ```text
 ALGORITMO ControleAcessoSala
 INICIO
@@ -11,16 +13,19 @@ INICIO
     ESCREVA "Informe a quantidade de alunos na fila: "
     LEIA quantidadeFila
 
+    // Estrutura de Repetição para garantir que todos sejam verificados
     PARA i DE 1 ATE quantidadeFila FACA
         ESCREVA "Digite o nome do aluno: "
         LEIA nomeAluno
 
+        // Estrutura de Decisão para permissão de entrada
         SE (nomeAluno consta na listaOficial) ENTAO
-            ESCREVA "Acesso Permitido para: " + nomeAluno
+            ESCREVA "Entrada permitida para: " + nomeAluno
         SENAO
-            ESCREVA "ERRO: Aluno " + nomeAluno + " não autorizado."
+            // Mensagem de erro obrigatória
+            ESCREVA "ERRO: O aluno " + nomeAluno + " não está na lista oficial. Entrada NEGADA."
         FIM_SE
     FIM_PARA
 
-    ESCREVA "Processo finalizado."
+    ESCREVA "Fila finalizada com sucesso."
 FIM
