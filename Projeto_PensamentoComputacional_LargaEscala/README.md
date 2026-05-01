@@ -27,3 +27,4 @@ Este projeto foi desenvolvido como parte da disciplina Pensamento Computacional,
 ## Desafios Identificados
 * Escalabilidade para milhões de usuários simultâneos.
 * Segurança de dados (Princípios de Saltzer & Schroeder: Menor Privilégio e Bloqueio por Padrão).
+
