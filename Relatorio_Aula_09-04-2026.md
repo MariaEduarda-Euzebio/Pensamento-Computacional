@@ -4,8 +4,6 @@
 *   **Nome:** Maria Eduarda Euzébio Rodrigues
 *   **RGM:** 43683118
 
-*   **Professora:** Kadidja Valéria
-
 ## 2. Objetivos da Atividade
 *   Reconhecer o surgimento da ciência da computação nas universidades.
 *   Identificar o papel do pensamento computacional na programação e automação de tarefas.
