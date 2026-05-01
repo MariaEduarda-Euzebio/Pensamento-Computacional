@@ -1,13 +1,13 @@
-# Desafios de Sistemas de Larga Escala
+# Desafios Críticos e Soluções Mitigadoras
 
 ## 1. Escalabilidade
-* **Problema:** Milhões de acessos simultâneos podem derrubar o servidor.
-* **Solução:** Uso de múltiplos servidores interligados (Clusters) para distribuir a carga de acesso.
+* **Desafio:** Manter o sistema estável com milhões de usuários simultâneos.
+* **Solução:** Uso de arquitetura distribuída (clusters) para balanceamento de carga.
 
-## 2. Mutabilidade
-* **Problema:** O software precisa ser atualizado constantemente sem sair do ar.
-* **Solução:** Arquitetura modular onde é possível atualizar o módulo de "Comentários" sem afetar o módulo de "Login".
+## 2. Segurança (Saltzer & Schroeder)
+* **Desafio:** Proteção de dados sensíveis dos usuários.
+* **Solução:** Aplicação do princípio de "Menor Privilégio", garantindo que usuários tenham acesso apenas aos seus próprios dados privados.
 
-## 3. Invisibilidade
-* **Problema:** A complexidade do sistema torna difícil entender falhas.
-* **Solução:** Documentação detalhada e mapeamento de fluxos para facilitar a manutenção pela equipe.
+## 3. Mutabilidade
+* **Desafio:** Atualizar o sistema sem interromper o serviço para os usuários.
+* **Solução:** Design modular que permite alterações em componentes isolados sem afetar o sistema completo.
