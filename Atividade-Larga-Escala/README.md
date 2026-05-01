@@ -1,12 +1,13 @@
-# Projeto: Planejamento de Sistema de Rede Social
+# Projeto: Planejamento de Rede Social de Larga Escala
 
 ## Descrição
-Este projeto aplica os fundamentos do Pensamento Computacional e da Engenharia de Software para projetar a arquitetura lógica de uma rede social de larga escala.
+Este projeto aplica os pilares do pensamento computacional e princípios da engenharia de software para projetar a arquitetura lógica de uma rede social global.
+
+## Objetivos
+* Relacionar engenharia de software e pensamento computacional.
+* Reconhecer princípios de segurança relevantes para sistemas complexos.
+* Identificar dificuldades reais no desenvolvimento de aplicações de grande escala.
 
 ## Metodologia de Desenvolvimento
-* **Metodologia:** Scrum.
-* **Justificativa:** O uso de Sprints permite que o sistema seja desenvolvido em módulos (como 'Perfil', depois 'Postagens'), facilitando correções rápidas.
-
-## Princípios de Segurança (Saltzer & Schroeder)
-* **Menor Privilégio:** Um usuário comum não tem permissão para acessar o banco de dados de outros usuários, apenas suas próprias informações.
-* **Bloqueio por Padrão:** O acesso a qualquer funcionalidade privada é negado até que o usuário faça o login corretamente.
+* **Metodologia:** Scrum[cite: 5].
+* **Justificativa:** Permite a divisão do trabalho em Sprints, facilitando a entrega modular de funcionalidades como perfis, feed e interações[cite: 5].
