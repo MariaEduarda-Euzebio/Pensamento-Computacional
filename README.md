@@ -2,14 +2,18 @@ Este repositório contém as atividades práticas e projetos desenvolvidos duran
 
 ## 📂 Atividades Desenvolvidas
 
-### 1. Lógica e Algoritmos
+### 1. Relatório: Pensamento Computacional nas Universidades
+*   **Descrição:** Relatório técnico sobre a evolução da computação acadêmica e sua importância na automação de tarefas.
+*   **Objetivos:** Reconhecer o papel da ciência da computação e relacionar a teoria com aplicações práticas atuais.
+
+### 2. Lógica e Algoritmos
 *   **Descrição:** Criação de um algoritmo para gerenciar o fluxo de entrada de alunos em sala de aula.
 *   **Conceitos:** Estruturas condicionais (Se-Então-Senão) e laços de repetição (Para/Enquanto).
 
-### 2. Pensamento Computacional para Sistemas de Larga Escala
+### 3. Pensamento Computacional para Sistemas de Larga Escala
 *   **Descrição:** Projeto focado no design de sistemas escaláveis utilizando princípios de microsserviços.
 *   **Conceitos:** Decomposição, escalabilidade e menor privilégio.
 
-### 3. A Arte da Abstração (Algoritmo do Brownie)
+### 4. A Arte da Abstração (Algoritmo do Brownie)
 *   **Descrição:** Decomposição do processo de assar brownies em diferentes níveis de abstração.
 *   **Entregáveis:** Fluxograma técnico e pseudocódigo estruturado.
