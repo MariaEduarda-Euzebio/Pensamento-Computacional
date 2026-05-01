@@ -14,6 +14,6 @@ Este repositório contém as atividades práticas e projetos desenvolvidos duran
 *   **Descrição:** Projeto focado no design de sistemas escaláveis utilizando princípios de microsserviços.
 *   **Conceitos:** Decomposição, escalabilidade e menor privilégio.
 
-### 4. A Arte da Abstração (Algoritmo do Brownie)
+### 4. A Arte da Abstração
 *   **Descrição:** Decomposição do processo de assar brownies em diferentes níveis de abstração.
 *   **Entregáveis:** Fluxograma técnico e pseudocódigo estruturado.
