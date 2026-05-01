@@ -1,26 +1,19 @@
-INICIO Algoritmo PrepararBrownie
+INICIO Algoritmo Algoritmo_do_Brownie
 
-  // Abstração de preparar ambiente
-  preparar_utensilios()
-  preaquecer_forno(180)
-
-  // Lógica de mistura
-  mistura_base <- bater_ingredientes(ovos, acucar)
-  chocolate_derretido <- derreter(chocolate, manteiga)
+  // Abstração de Insumos
+  preparar_ingredientes(ovos, acucar, chocolate_derretido)
   
-  massa_final <- combinar(mistura_base, chocolate_derretido, farinha)
-
-  // Estrutura de repetição para garantir qualidade
-  ENQUANTO (massa_tem_pelotas == VERDADEIRO) FACA
-    mexer_suavemente(massa_final)
+  // Processo de Homogeneização
+  ENQUANTO (massa_esta_lisa == FALSO) FACA
+    bater_ingredientes()
   FIM ENQUANTO
-
-  // Estrutura condicional de execução
-  SE (forno_pronto == VERDADEIRO) ENTAO
-    assar(massa_final, 25) // tempo em minutos
-    exibir_mensagem("Brownie assado com sucesso!")
+  
+  // Validação e Execução
+  SE (temperatura_forno == 180) ENTAO
+    assar_massa(tempo_30_min)
+    exibir_mensagem("Fim do Processo: Brownie Pronto!")
   SENAO
-    exibir_mensagem("Erro: Aguarde o forno atingir a temperatura.")
+    exibir_mensagem("Aguardando aquecimento do sistema.")
   FIM SE
 
 FIM Algoritmo
