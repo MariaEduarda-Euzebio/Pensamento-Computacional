@@ -12,3 +12,4 @@ O sistema foi dividido em módulos fundamentais para facilitar a gestão da comp
 
 ## 3. Algoritmos
 * Implementação lógica de um algoritmo de ordenação para o feed, garantindo que o conteúdo seja exibido de acordo com a relevância para o usuário.
+  
