@@ -11,3 +11,4 @@
 ## 3. Mutabilidade
 * **Desafio:** Atualizar o sistema sem interromper o serviço para os usuários.
 * **Solução:** Design modular que permite alterações em componentes isolados sem afetar o sistema completo.
+
